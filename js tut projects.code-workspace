@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../js tut projects"
+		},
+		{
+			"path": "../sorting visualizer"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code editor"
+	}
+}
